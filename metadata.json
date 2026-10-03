@@ -1,0 +1,6 @@
+{
+  "name": "Insurance Terms & Plan Selection Guide",
+  "description": "Interactive claims scenario simulation tool to understand health insurance terms and compare plan out-of-pocket costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

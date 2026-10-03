@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Lato", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Lato", sans-serif;
+  --font-mono: "Lato", ui-monospace, SFMono-Regular, monospace;
+
+  /* Specific Warm Scarlet Brand Red extracted from the screenshot */
+  --color-red-50: #fff5f5;
+  --color-red-100: #ffe3e1;
+  --color-red-200: #ffcbc7;
+  --color-red-300: #ffa199;
+  --color-red-400: #ff6d60;
+  --color-red-500: #f24b3d;
+  --color-red-600: #e13d30; /* Exact color of "International" in the screenshot */
+  --color-red-700: #bd2c21;
+  --color-red-800: #9c2219;
+  --color-red-900: #812018;
+  --color-red-950: #470c07;
+}
+
+/* Remove number input spinner arrows across all browsers */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+
