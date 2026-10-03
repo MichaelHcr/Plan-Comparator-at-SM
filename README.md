@@ -2,7 +2,7 @@
 
 An English/Mandarin tool that helps members compare insurance plans through interactive cost scenarios.
 
-Built during my Operations Analyst internship at **Student Medicover** (Summer 2026), where it launched to members.
+Built during my Operations Analyst internship at **Student Medicover** (Summer 2026), where it launched to potential users on https://smcovered.com/student-health-insurance-out-of-pocket-cost-calculator/.
 
 <!-- TODO: add a screenshot or GIF here, e.g. ![Plan Comparator screenshot](assets/screenshot.png) -->
 
