@@ -39,7 +39,7 @@ React 19 · TypeScript · Vite · Tailwind CSS · Motion · lucide-react · Goog
 
 ```bash
 npm install
-cp .env.example .env.local   # then set GEMINI_API_KEY if you use the Gemini features
+cp .env.example .env.local
 npm run dev                  # runs on http://localhost:3000
 ```
 
